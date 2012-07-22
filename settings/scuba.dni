@@ -1,0 +1,75 @@
+[E20]
+TimeConnected=1342957750
+ComuniDllSave=36438016
+FfwnsdDllSave=35192832
+BlockBits=1143495986
+B0=742605133,573131056
+B1=1128353092,1226973228
+B2=573131056,1230984515
+B3=1226973228,828068432
+TraceMode=0
+TraceOutput=2
+TraceCapacity=0
+TraceRestart=0
+OperatingFrequency=12.500000
+ChipName=R5F562N8
+CpuMode=0
+InputClock=12.500000
+WorkRamStart=12288
+JtagClock=10
+DebugFlags=0,1
+EmulatorMode=0
+NeedInit=0
+[DebugChecksum]
+Checksum=1031232661
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[StackPlugin]
+Enabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=0
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[PowerLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+ShowTimeSum=0
+Title0=Power
+Setup0=0 1 0 500 2 0 4 1 0
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=3
+Graph=0
+Symbiont=0
+[Breakpoints]
+Count=0
+[Monitor Execution]
+Leave target running=0
+Release target=0
+[Aliases]
+A0=_ "\\psf\Home\Documents\Netrino\Products\BootCampKit\ThumbMaster\Exercises\3rdParty\uCOS-III\Core\os_task.c" ""
+A1=_ "\\psf\Home\Documents\Netrino\Products\BootCampKit\ThumbMaster\Exercises\3rdParty\uCOS-III\Core\os_time.c" "D:\Tools\Exercises\3rdParty\uCOS-III\Core\os_time.c"
+Count=2
+SuppressDialog=0
+[TraceHelper]
+Enabled=0
+ShowSource=1
