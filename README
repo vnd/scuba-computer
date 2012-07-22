@@ -1,0 +1,4 @@
+This is a final exercise from "Embedded Software Training in a Box" course (http://www.barrgroup.com/boot-camp-box/).
+Doesn't make any practical sense, but is a good recap of hardware interfacing (ADC converter, LCD, sound and buttons), interrupt handling and concurrency issues (using Micrium µC/OS-III Kernel primitives).
+Except the code itself there are project files for IAR Embedded Workbench, target platform -- Renesas RX62N board.
+Most of the files were originally given as short templates that were filled up during the course, so copyright probably belongs to NETRINO, LLC.
